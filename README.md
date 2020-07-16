@@ -39,8 +39,10 @@ Only the fully connected section of the model was re-trained. The performance ac
 
 Detection samples:
 
-![](dog.PNG)
+![](/images/dog.PNG)
 
-![](human.PNG)
+![](/images/human.PNG)
 
-![](dog2.PNG)
+![](/images/dog2.PNG)
+
+![](/images/nodog.PNG)
