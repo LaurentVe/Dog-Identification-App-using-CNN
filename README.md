@@ -10,17 +10,18 @@ This project is part of Udacity's Nanodegree "Deep Learning".
 The notebook uses VGG16 pre-trained model which is downloaded from PyTorch library.
 It also uses a haarcascade classifier for human face detection. The classifier is provided in the haarcascades folder.
 
-The training requires two datasets, one for dogs and one form human faces.
+The training requires two datasets, one for dogs and one from human faces.
 Datasets can be downloaded in the notebook from these paths:
 - dogs: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 - humans: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
 ## Installation
+- Download the repository
 - Download the datasets and follow instructions from the notebook to create the appropriate folders.
-- Download the repository and run the Jupyter notebook providing your own pictures to the model.
 
 ## Run the notebook
-insert your own images that you would like to classify in the folder "my_images". The notebook will scan through all saved images and return a prediction.
+- Insert your own images that you would like to classify in the folder "my_images". The notebook will scan through all saved images and return a prediction.
+- Run the Jupyter notebook providing your own pictures to the model.
 
 ## Notebook structure
 - Import Datasets
