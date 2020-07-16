@@ -19,6 +19,9 @@ Datasets can be downloaded in the notebook from these paths:
 - Download the datasets and follow instructions from the notebook to create the appropriate folders.
 - Download the repository and run the Jupyter notebook providing your own pictures to the model.
 
+## Run the notebook
+insert your own images that you would like to classify in the folder "my_images". The notebook will scan through all saved images and return a prediction.
+
 ## Notebook structure
 - Import Datasets
 - Create human face detector. This part uses a haarcascade classifier.
