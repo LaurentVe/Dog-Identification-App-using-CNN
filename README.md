@@ -16,7 +16,7 @@ Datasets can be downloaded in the notebook from these paths:
 - humans: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
 ## Installation
-- Download the datasets.
+- Download the datasets and follow instructions from the notebook to create the appropriate folders.
 - Download the repository and run the Jupyter notebook providing your own pictures to the model.
 
 ## Notebook structure
