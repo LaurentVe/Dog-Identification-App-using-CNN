@@ -7,10 +7,10 @@ This notebook accepts any user-supplied image as input. If a dog is detected in 
 This project is part of Udacity's Nanodegree "Deep Learning".
 
 ## Dependencies
-The notebook uses VGG16 pre-trained model whcih is downloaded from PyTorch library.
-It also uses a haarcascade classifier for human face detection. The classifier is provided in the haarcascades folder. 
-The training requires two datasets, one for dogs and one form human faces.
+The notebook uses VGG16 pre-trained model which is downloaded from PyTorch library.
+It also uses a haarcascade classifier for human face detection. The classifier is provided in the haarcascades folder.
 
+The training requires two datasets, one for dogs and one form human faces.
 Datasets can be downloaded in the notebook from these paths:
 - dogs: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 - humans: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
